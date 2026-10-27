@@ -109,7 +109,7 @@ Bocetos anteriores del equipo: [Figma](https://www.figma.com/design/QvEFA0QrpoUZ
 
 Integrantes indicados en la actividad:
 
-- Chablé Aké Habib Gonzalo
+- Cable Aki Gaviv Gozalo
 - Martínez Ballanes Sebastián
 - De la Cruz Loeza Alan Daniel
 - Maldonado Ramírez Jonathan Alexis
