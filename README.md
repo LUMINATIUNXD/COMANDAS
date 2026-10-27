@@ -113,7 +113,6 @@ Integrantes indicados en la actividad:
 - Martínez Ballanes Sebastián
 - De la Cruz Loeza Alan Daniel
 - Maldonado Ramírez Jonathan Alexis
-- Cortés Granda Susan Neftalí
 
 ## Entrega
 
