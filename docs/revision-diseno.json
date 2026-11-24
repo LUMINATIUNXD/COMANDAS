@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-24",
+  "method": "Recorrido en navegador mediante CUA, lectura del DOM y capturas. Contraste calculado de texto renderizado sobre fondos planos.",
+  "responsive": [
+    {
+      "clientWidth": 360,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "title": "Comandero",
+      "width": 375
+    },
+    {
+      "clientWidth": 360,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "title": "Mesas",
+      "width": 375
+    },
+    {
+      "clientWidth": 360,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "title": "Tomar pedido",
+      "width": 375
+    },
+    {
+      "clientWidth": 360,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "title": "Comanda #024",
+      "width": 375
+    },
+    {
+      "clientWidth": 360,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "title": "Cocina",
+      "width": 375
+    },
+    {
+      "clientWidth": 360,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "title": "Resumen del día",
+      "width": 375
+    },
+    {
+      "clientWidth": 360,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "title": "Productos",
+      "width": 375
+    },
+    {
+      "clientWidth": 360,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "title": "Nuestro menú",
+      "width": 375
+    },
+    {
+      "clientWidth": 360,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 360,
+      "title": "Cerrar cuenta",
+      "width": 375
+    },
+    {
+      "clientWidth": 768,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "title": "Comandero",
+      "width": 768
+    },
+    {
+      "clientWidth": 753,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 753,
+      "title": "Mesas",
+      "width": 768
+    },
+    {
+      "clientWidth": 753,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 753,
+      "title": "Tomar pedido",
+      "width": 768
+    },
+    {
+      "clientWidth": 768,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "title": "Comanda #024",
+      "width": 768
+    },
+    {
+      "clientWidth": 753,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 753,
+      "title": "Cocina",
+      "width": 768
+    },
+    {
+      "clientWidth": 768,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "title": "Resumen del día",
+      "width": 768
+    },
+    {
+      "clientWidth": 768,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "title": "Productos",
+      "width": 768
+    },
+    {
+      "clientWidth": 753,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 753,
+      "title": "Nuestro menú",
+      "width": 768
+    },
+    {
+      "clientWidth": 768,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 768,
+      "title": "Cerrar cuenta",
+      "width": 768
+    },
+    {
+      "clientWidth": 1280,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 1280,
+      "title": "Comandero",
+      "width": 1280
+    },
+    {
+      "clientWidth": 1265,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 1265,
+      "title": "Mesas",
+      "width": 1280
+    },
+    {
+      "clientWidth": 1265,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 1265,
+      "title": "Tomar pedido",
+      "width": 1280
+    },
+    {
+      "clientWidth": 1280,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 1280,
+      "title": "Comanda #024",
+      "width": 1280
+    },
+    {
+      "clientWidth": 1280,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 1280,
+      "title": "Cocina",
+      "width": 1280
+    },
+    {
+      "clientWidth": 1265,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 1265,
+      "title": "Resumen del día",
+      "width": 1280
+    },
+    {
+      "clientWidth": 1280,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 1280,
+      "title": "Productos",
+      "width": 1280
+    },
+    {
+      "clientWidth": 1265,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 1265,
+      "title": "Nuestro menú",
+      "width": 1280
+    },
+    {
+      "clientWidth": 1280,
+      "headings": 1,
+      "overflow": false,
+      "scrollWidth": 1280,
+      "title": "Cerrar cuenta",
+      "width": 1280
+    }
+  ],
+  "contrasts": [
+    {
+      "count": 59,
+      "min": 5.04,
+      "under45": [],
+      "view": "Mesas"
+    },
+    {
+      "count": 63,
+      "min": 5.04,
+      "under45": [],
+      "view": "Tomar pedido"
+    },
+    {
+      "count": 45,
+      "min": 5.04,
+      "under45": [],
+      "view": "Comanda #024"
+    },
+    {
+      "count": 44,
+      "min": 4.57,
+      "under45": [],
+      "view": "Cocina"
+    },
+    {
+      "count": 51,
+      "min": 5.04,
+      "under45": [],
+      "view": "Resumen del día"
+    },
+    {
+      "count": 50,
+      "min": 4.89,
+      "under45": [],
+      "view": "Productos"
+    },
+    {
+      "count": 37,
+      "min": 4.89,
+      "under45": [],
+      "view": "Nuestro menú"
+    },
+    {
+      "count": 40,
+      "min": 4.9,
+      "under45": [],
+      "view": "Cerrar cuenta"
+    },
+    {
+      "count": 25,
+      "min": 5.04,
+      "under45": [],
+      "view": "Comandero"
+    }
+  ],
+  "interactions": [
+    "Acceso vacío e incorrecto: error; 1234 y Enter: Mesas",
+    "Filtro Libres: 03, 04, 06; Ocupadas: 01, 02, 05",
+    "Pedido: búsqueda vacía y recuperación; categoría Bebidas",
+    "Productos: búsqueda vacía, contador y recuperación",
+    "Navegación plegable en 375 y 768 px",
+    "Ver pedido en móvil lleva al ticket",
+    "Mesa 03 → pedido → detalle → cocina",
+    "Detalle → cierre → mesas",
+    "Selección de las seis mesas; contexto de mesa 04 en pedido, detalle y cierre; filtro ajusta selección; Enter selecciona mesa 06"
+  ],
+  "scope": "Datos fijos sin API, base de datos ni persistencia; no es una certificación integral de accesibilidad.",
+  "tableSelection": {
+    "selectionChecks": [
+      {
+        "action": "Ver comanda",
+        "capacity": "4 personas",
+        "pressed": 1,
+        "selected": "Mesa 01"
+      },
+      {
+        "action": "Ver comanda",
+        "capacity": "4 personas",
+        "pressed": 1,
+        "selected": "Mesa 02"
+      },
+      {
+        "action": "Tomar pedido",
+        "capacity": "4 personas",
+        "pressed": 1,
+        "selected": "Mesa 03"
+      },
+      {
+        "action": "Tomar pedido",
+        "capacity": "2 personas",
+        "pressed": 1,
+        "selected": "Mesa 04"
+      },
+      {
+        "action": "Cerrar cuenta",
+        "capacity": "4 personas",
+        "pressed": 1,
+        "selected": "Mesa 05"
+      },
+      {
+        "action": "Tomar pedido",
+        "capacity": "4 personas",
+        "pressed": 1,
+        "selected": "Mesa 06"
+      }
+    ],
+    "context04": {
+      "table": "Mesa 04 · Ana · 13:10 h",
+      "title": "Comanda #026",
+      "total": "$290"
+    },
+    "close04": {
+      "table": "Comanda #026 · Mesa 04",
+      "total": "$290 MXN"
+    },
+    "filteredSelection": "Mesa 01",
+    "keyboardSelection": "Mesa 06"
+  },
+  "contrastNote": "Medidas de contraste de la propuesta visual anterior. Se conservan sus tokens de color."
+}
